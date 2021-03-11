@@ -1,4 +1,4 @@
-remote_theme: eliottvincent/bay
+theme: bay_jekyll_theme
 
 title: Emanuel Teixeira
 baseurl: ""
@@ -8,7 +8,6 @@ header:
     - name: Home
       slug: /
     - name: Work
-      slug: /work
     - name: Blog
 
 footer:
