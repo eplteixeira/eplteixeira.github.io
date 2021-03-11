@@ -8,7 +8,7 @@ header:
     - name: Home
       slug: /
     - name: Work
-      slug: /Work
+      slug: /work
     - name: Blog
 
 footer:
